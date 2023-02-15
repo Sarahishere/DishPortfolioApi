@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishPortfolio.Endpoint", "DishPortfolio.Endpoint\DishPortfolio.Endpoint.csproj", "{ED7D1F57-2886-4424-898D-AD20F7098E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishPortfolio.Entities", "DishPortfolio.Entities\DishPortfolio.Entities.csproj", "{99CFB56C-C46F-4651-B88C-9EAE13CA6CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishPortfolio.DataService", "DishPortfolio.DataService\DishPortfolio.DataService.csproj", "{07AB79C3-BD98-47E1-AAA5-68923781C9F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED7D1F57-2886-4424-898D-AD20F7098E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7D1F57-2886-4424-898D-AD20F7098E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7D1F57-2886-4424-898D-AD20F7098E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7D1F57-2886-4424-898D-AD20F7098E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CFB56C-C46F-4651-B88C-9EAE13CA6CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CFB56C-C46F-4651-B88C-9EAE13CA6CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CFB56C-C46F-4651-B88C-9EAE13CA6CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CFB56C-C46F-4651-B88C-9EAE13CA6CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AB79C3-BD98-47E1-AAA5-68923781C9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AB79C3-BD98-47E1-AAA5-68923781C9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AB79C3-BD98-47E1-AAA5-68923781C9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AB79C3-BD98-47E1-AAA5-68923781C9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
